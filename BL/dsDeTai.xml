@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Student>
+	
+	<StudentID>12345</StudentID>
+	<Lastname>Nguyen Thi Minh </Lastname>
+	<FirstName>Minh</FirstName>
+	<Phone>0909323441</Phone>
+	<Email>ntminh@gmail.com</Email>
+	<AverageScore>6.8</AverageScore>
+
+	<StudentID>12342</StudentID>
+	<Lastname>Nguyen Man Nhi </Lastname>
+	<FirstName>Nhi</FirstName>
+	<Phone>0909346441</Phone>
+	<Email>mannhi@gmail.com</Email>
+	<AverageScore>8</AverageScore>
+
+	<StudentID>13445</StudentID>
+	<Lastname>Vo Thi Hai </Lastname>
+	<FirstName>Minh</FirstName>
+	<Phone>0909312436</Phone>
+	<Email>vthai@gmail.com</Email>
+	<AverageScore>8.3</AverageScore>
+</Student>
